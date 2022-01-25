@@ -93,7 +93,7 @@ An old man flies in his cloud-shaped plane, following a pod of whales over diffe
 
 ## Resources
 
-Unity Course Video FIRST PERSON MOVEMENT in Unity - FPS Controller
+First Person Movement - FPS Controller
 https://www.youtube.com/watch?v=_QajrabyTJc
 
 On Trigger / Move Platform
