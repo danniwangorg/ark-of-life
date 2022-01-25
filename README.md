@@ -5,7 +5,7 @@ Ark of Life
 Whale in Cloud（Not used) 
 
 
-## Life and death
+## Intention
 
 When we live in the world, we learn to take nothing for granted. "We're meant to lose the people we love. How else would we know how important they are to us?" The theme focuses on the world of life and death, using an approach of the ephemeral vs. the eternal. (易逝与永恒) Through the experience, we hope to evoke an awareness of the preciousness of companionship and to cherish those things that are meant to be lost.
 
