@@ -56,6 +56,17 @@ Feedback & Iteration (Yutian & Danni)
 Users will start from an indoor space with a futuristic look. There is a tree in the middle of the space, and the tree will light up when users approach it. (not used) There are some plants around the tree carrying DNA samples, and users can hover over the vessel and read the info from a pop-up window. Stepping out of the indoor space, users find they are on a floating island, the users can walk to the edge of the island, and then a small platform appears that can move up and down, which can take the users to another island.
 
 
+## Next Steps
+
+Optimize Cinemachine function to create more smooth camera movements on predefined paths/tracks
+
+Add more raycasting features to enhance user experience and interaction
+
+Enrich content details of DNA samples and vessels by using more metaphor models
+
+Explore spatial typology in modular units of the network, linking to more scenes to augment the experience
+
+
 ## 1st-week Feedback
 
 Transformation of human cells into whale cells/sky burial
@@ -89,17 +100,6 @@ Step inside…
 ## Narrative (Not used)
 
 An old man flies in his cloud-shaped plane, following a pod of whales over different scenes (forestland, snowland, desertland, etc.), finally reaching a sunset zone in search of his lost youth. During his journey, the old man will become younger and younger (if using the third-person perspective), while all the good memories and happiness of his life will return to his mind. The cloud-shaped flying machine and different landscapes are the keys to each scene.
-
-
-## Next Steps
-
-Optimize Cinemachine function to create more smooth camera movements on predefined paths/tracks
-
-Add more raycasting features to enhance user experience and interaction
-
-Enrich content details of DNA samples and vessels by using more metaphor models
-
-Explore spatial typology in modular units of the network, linking to more scenes to augment the experience
 
 
 ## Resources
