@@ -62,7 +62,7 @@ Transformation of human cells into whale cells/sky burial
 
 Introductory info / guided tours (e.g. biological transformation)
 
-Jesse: reminded me of this story https://en.wikipedia.org/wiki/Aiyoku_no_Eustia
+Jesse: reminded me of [this story](https://en.wikipedia.org/wiki/Aiyoku_no_Eustia)
 
 
 ## Onboarding Scripts (Not used)
@@ -91,41 +91,6 @@ Step inside…
 An old man flies in his cloud-shaped plane, following a pod of whales over different scenes (forestland, snowland, desertland, etc.), finally reaching a sunset zone in search of his lost youth. During his journey, the old man will become younger and younger (if using the third-person perspective), while all the good memories and happiness of his life will return to his mind. The cloud-shaped flying machine and different landscapes are the keys to each scene.
 
 
-## Resources
-
-First Person Movement - FPS Controller
-https://www.youtube.com/watch?v=_QajrabyTJc
-
-On Trigger / Move Platform
-https://youtu.be/5GWj2LS4d8s
-
-Rhino to Unity（export .obj）
-https://www.youtube.com/watch?v=HmG1zvhfjuQ
-
-Using SceneManager.LoadScene to load scenes
-https://www.youtube.com/watch?v=FGVEHzmkAck
-
-Scene Transition
-https://www.youtube.com/watch?v=Qd2em_ts5vs
-
-Change Scene With Button
-https://www.youtube.com/watch?v=05OfmBIf5os
-
-Play Sound Effects With A Trigger
-https://www.youtube.com/watch?v=qGAsgIJ-c38
-
-Light Turn On&Off With A Trigger
-https://www.youtube.com/watch?v=1u-wfvufvvE
-https://www.youtube.com/watch?v=FhMuL70xLus
-
-Selecting Objects With Raycast
-https://www.youtube.com/watch?v=_yf5vzZ2sYE
-
-Cinemachine: Dolly Track
-https://www.youtube.com/watch?v=q1BFSou09fE
-https://www.youtube.com/watch?v=C6MD_eI8c14
-https://www.youtube.com/watch?v=we4CGmkPQ6Q
-
 ## Next Steps
 
 Optimize Cinemachine function to create more smooth camera movements on predefined paths/tracks
@@ -137,12 +102,33 @@ Enrich content details of DNA samples and vessels by using more metaphor models
 Explore spatial typology in modular units of the network, linking to more scenes to augment the experience
 
 
-## Project Documentation
-https://danniwang.org/ima/ark-of-life
+## Resources
 
-## Presentation Slides
-https://docs.google.com/presentation/d/19L16s0U4jcGTI6ORdcjqHvqGnVBHNNDJHHtAGkBgAEo/edit?usp=sharing
+[First Person Movement - FPS Controller](https://www.youtube.com/watch?v=_QajrabyTJc)
+
+[On Trigger / Move Platform](https://youtu.be/5GWj2LS4d8s)
+
+[Rhino to Unity](https://www.youtube.com/watch?v=HmG1zvhfjuQ) (export .obj)
+
+[Using SceneManager.LoadScene to load scenes](https://www.youtube.com/watch?v=FGVEHzmkAck)
+
+[Scene Transition](https://www.youtube.com/watch?v=Qd2em_ts5vs)
+
+[Change Scene With Button](https://www.youtube.com/watch?v=05OfmBIf5os)
+
+[Play Sound Effects With A Trigger](https://www.youtube.com/watch?v=qGAsgIJ-c38)
+
+Light Turn On&Off With A Trigger [(link1)](https://www.youtube.com/watch?v=1u-wfvufvvE) [(link2)](https://www.youtube.com/watch?v=FhMuL70xLus)
+
+[Selecting Objects With Raycast](https://www.youtube.com/watch?v=_yf5vzZ2sYE)
+
+Cinemachine: Dolly Track [(link1)](https://www.youtube.com/watch?v=q1BFSou09fE) [(link2)](https://www.youtube.com/watch?v=C6MD_eI8c14) [(link3)](https://www.youtube.com/watch?v=we4CGmkPQ6Q)
 
 
-## Video Recording
-https://drive.google.com/file/d/1-s8CcsszaLM29PnAOcgGKp_344ih1KT3/view?usp=sharing
+## Documentation
+
+[Documentation](https://danniwang.org/ima/ark-of-life)
+
+[Show&Tell Slides](https://docs.google.com/presentation/d/19L16s0U4jcGTI6ORdcjqHvqGnVBHNNDJHHtAGkBgAEo/edit?usp=sharing)
+
+[Video Recording](https://drive.google.com/file/d/1-s8CcsszaLM29PnAOcgGKp_344ih1KT3/view?usp=sharing)
