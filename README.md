@@ -132,3 +132,5 @@ Cinemachine: Dolly Track [(link1)](https://www.youtube.com/watch?v=q1BFSou09fE) 
 [Show&Tell Slides](https://docs.google.com/presentation/d/19L16s0U4jcGTI6ORdcjqHvqGnVBHNNDJHHtAGkBgAEo/edit?usp=sharing)
 
 [Video Recording](https://drive.google.com/file/d/1-s8CcsszaLM29PnAOcgGKp_344ih1KT3/view?usp=sharing)
+
+[Shareable Video](https://www.youtube.com/watch?v=zeQkxKyIUL0&t=82s)
