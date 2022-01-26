@@ -118,7 +118,7 @@ An old man flies in his cloud-shaped plane, following a pod of whales over diffe
 
 [Play Sound Effects With A Trigger](https://www.youtube.com/watch?v=qGAsgIJ-c38)
 
-Light Turn On&Off With A Trigger [(link1)](https://www.youtube.com/watch?v=1u-wfvufvvE) [(link2)](https://www.youtube.com/watch?v=FhMuL70xLus)
+Light Turn On & Off With A Trigger [(link1)](https://www.youtube.com/watch?v=1u-wfvufvvE) [(link2)](https://www.youtube.com/watch?v=FhMuL70xLus)
 
 [Selecting Objects With Raycast](https://www.youtube.com/watch?v=_yf5vzZ2sYE)
 
@@ -129,7 +129,7 @@ Cinemachine: Dolly Track [(link1)](https://www.youtube.com/watch?v=q1BFSou09fE) 
 
 [Documentation](https://danniwang.org/ima/ark-of-life)
 
-[Show&Tell Slides](https://docs.google.com/presentation/d/19L16s0U4jcGTI6ORdcjqHvqGnVBHNNDJHHtAGkBgAEo/edit?usp=sharing)
+[Show & Tell Slides](https://docs.google.com/presentation/d/19L16s0U4jcGTI6ORdcjqHvqGnVBHNNDJHHtAGkBgAEo/edit?usp=sharing)
 
 [Video Recording](https://drive.google.com/file/d/1-s8CcsszaLM29PnAOcgGKp_344ih1KT3/view?usp=sharing)
 
