@@ -136,3 +136,8 @@ Cinemachine: Dolly Track [(link1)](https://www.youtube.com/watch?v=q1BFSou09fE) 
 [Shareable Video](https://www.youtube.com/watch?v=zeQkxKyIUL0&t=82s)
 
 [Deployed Project](https://doraesalmon.itch.io/ark-of-life)
+
+
+## Reflection
+
+I would like to introduce [Donna Haraway](https://en.wikipedia.org/wiki/Donna_Haraway)'s idea on composing here. When Donna Haraway talks about composting, she is suggesting to us that when we face this "damaged planet," what we should focus on is not this doomsday narrative about the end of the world, nor how to reverse the sixth extinction with high technology, but thinking about composting as an organic process of restoring fertility of the soil. Composting thus means that the damaged planet still has possibilities of life.
