@@ -67,14 +67,17 @@ Enrich content details of DNA samples and vessels by using more metaphor models
 Explore spatial typology in modular units of the network, linking to more scenes to augment the experience
 
 
-## 1st-week Feedback
+## Feedback
 
-Transformation of human cells into whale cells/sky burial
+Transformation of human cells into whale cells / sky burial
 
 Introductory info / guided tours (e.g. biological transformation)
 
 Jesse: reminded me of [this story](https://en.wikipedia.org/wiki/Aiyoku_no_Eustia)
 
+Position the character as being the maintainer of the system. Click on specific parts to water the plants. Put some oil in the machine. Limit the power current or voltage for the same machines.
+
+Randomize slightly the position of each element everytime the scene is reloaded. Generate new spaces with old elements. [Proteus](https://www.youtube.com/watch?v=rpkpuoq6y9s) / [Warframe](https://www.youtube.com/watch?v=aYs-2TsBpsw)
 
 ## Onboarding Scripts (Not used)
 
